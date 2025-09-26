@@ -1,0 +1,4 @@
+TEMP.md
+venv/
+.pytest_cache/
+*.pyc
